@@ -16,3 +16,8 @@ Wireless Patient Monitoring System
 - Blood pressure
 - EEG
 - Temperature
+
+
+
+Please refer to the wiki below for documentation and further details!  
+https://github.com/williamunimelb/capstonemp2/wiki
