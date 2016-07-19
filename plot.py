@@ -21,7 +21,7 @@ def animate(i):
             #x,y = eachLine.split(',')
             #xar.append(int(x))
             #yar.append(int(y))
-            xar = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+            xar = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50]
             
             #if count < 5 :
             count = count+1;
@@ -36,6 +36,8 @@ def animate(i):
               #  yar.append(eachLine)
     ax1.clear()
     ax1.plot(xar,yar)
+    plt.ylim([440,500])    # fix the axis range (otherwise, it automatically fits window 
     #yar = []
-ani = animation.FuncAnimation(fig, animate, interval=1000)
+ani = animation.FuncAnimation(fig, animate, interval=50)
 plt.show()
+

@@ -42,7 +42,7 @@ while 1:
     #print(length)
     print(line)
 
-    if length > 20 :     # > because includes \n in the last line
+    if length > 50 :     # > because includes \n in the last line
         lines = open(filename).readlines()
         new_file = open(filename, 'w').writelines(lines[1:])
          

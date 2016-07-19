@@ -19,6 +19,6 @@ void loop() {
   //Serial.print("Output: ");
   Serial.println(temperature); 
   
-  delay(1000);
+  delay(300);
 }
 
