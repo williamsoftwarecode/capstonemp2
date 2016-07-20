@@ -3,6 +3,8 @@ Wireless Patient Monitoring System
 
 ##Project: MP2 - Wireless Patient Monitoring System
 
+![alt tag](https://github.com/williamunimelb/capstonemp2/blob/master/13735744_10154025845734079_1996791215845141750_o.jpg)
+
 ###Collaborators: 
 - Jia Hui Ong
 - Jiayi Chen
